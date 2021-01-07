@@ -6,17 +6,19 @@ import ShowGrid from '../components/show/ShowGrid';
 import { apiGet } from '../misc/config' ;
 
 const Home = () => {
+
    const [input, setInput]=useState('');
   const [results, setResults]=useState(null);
   const [searchOption, setSearchOption] =useState('shows');
 
   const isShowsSearch = searchOption === 'shows';
-
-
-const onSearch = () => {
+  
+  const onSearch = () => {
     apiGet(`/search/${searchOption}?q=${input}`).then(result => {
       setResults(result);
-      console.log(onSearch)
+
+
+      
     });
   };
 

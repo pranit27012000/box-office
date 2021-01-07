@@ -1,0 +1,23 @@
+[33mcommit 8ad89174deddc97e55d2246b04006eb10d1aef78[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: pranit <pranit27012000>
+Date:   Thu Jan 7 00:38:58 2021 +0530
+
+    added all files to new commit
+
+[33mcommit 688342066e6d49025f4be7e45f671417674131cc[m
+Author: pranit <pranit27012000>
+Date:   Wed Jan 6 21:27:34 2021 +0530
+
+    check
+
+[33mcommit 5627161609c07e5e67d06268c55731b5685f4f2b[m
+Author: pranit <pranitnavghane2701@gmail.com>
+Date:   Wed Dec 30 18:36:47 2020 +0530
+
+    initialized new project and installed dev dependency
+
+[33mcommit 1038f35a3ecce6f1cbaf5925c34d1d1cb55c6c74[m
+Author: pranit <pranitnavghane2701@gmail.com>
+Date:   Wed Dec 30 16:53:45 2020 +0530
+
+    Initialize project using Create React App
